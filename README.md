@@ -1,16 +1,16 @@
 # Astro-Batman
 
-مجموعه کامل کتابخانه‌ها و اسکریپت‌های مورد نیاز برای محاسبات نجومی (ودیک و غربی)، رسم چارت‌های D1, D9, D60، تحلیل ترانزیت، Shadbala، Ashtakavarga و حتی ادغام چارت‌ها روی تصاویر واقعی.
+مجموعه کامل ابزارها و اسکریپت‌ها برای محاسبات ودیک و غربی، رسم چارت‌های D1، D9، D60 و تحلیل‌های پیشرفته.
 
 ## نصب سریع
 
 1. کلون کردن ریپو:
    ```bash
-   git clone https://github.com/USERNAME/astro-batman.git
+   git clone https://github.com/darkamulet1/astro-batman.git
    cd astro-batman
    ```
 
-2. نصب کتابخانه‌های داخلی:
+2. نصب کتابخانه‌های محلی:
    ```bash
    python batman_setup.py
    ```
@@ -20,12 +20,7 @@
    pip install -r requirements.txt
    ```
 
-## پکیج‌های کلیدی
-- pyswisseph
-- flatlib
-- kerykeion
-- VedicAstro
-- sideralib
-- jyotisha
-- matplotlib, pillow, opencv-python
-- numpy, pandas, skyfield
+4. اجرای نمونه:
+   ```bash
+   python sample_chart.py
+   ```
