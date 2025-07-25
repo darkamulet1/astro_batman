@@ -1,0 +1,6 @@
+matplotlib
+pillow
+opencv-python
+numpy
+pandas
+skyfield
